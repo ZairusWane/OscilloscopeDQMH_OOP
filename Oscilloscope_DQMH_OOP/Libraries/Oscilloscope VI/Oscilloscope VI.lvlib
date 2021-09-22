@@ -100,5 +100,8 @@
 		<Item Name="Is Safe to Destroy Refnums.vi" Type="VI" URL="../Is Safe to Destroy Refnums.vi"/>
 		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
 	</Item>
+	<Item Name="Classes" Type="Folder">
+		<Item Name="Oscilloscope.lvclass" Type="LVClass" URL="../../Classes/Oscilloscope/Oscilloscope.lvclass"/>
+	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
