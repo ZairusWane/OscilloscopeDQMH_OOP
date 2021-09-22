@@ -19,6 +19,14 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Set Port Argument--cluster.ctl" Type="VI" URL="../Set Port Argument--cluster.ctl"/>
+				<Item Name="Initialize Scope Argument--cluster.ctl" Type="VI" URL="../Initialize Scope Argument--cluster.ctl"/>
+				<Item Name="Close Scope Argument--cluster.ctl" Type="VI" URL="../Close Scope Argument--cluster.ctl"/>
+				<Item Name="Autosetup Scope Argument--cluster.ctl" Type="VI" URL="../Autosetup Scope Argument--cluster.ctl"/>
+				<Item Name="Configure Channel Scope Argument--cluster.ctl" Type="VI" URL="../Configure Channel Scope Argument--cluster.ctl"/>
+				<Item Name="Read Measurement Scope Argument--cluster.ctl" Type="VI" URL="../Read Measurement Scope Argument--cluster.ctl"/>
+				<Item Name="Read Measurement 2 Channels Scope Argument--cluster.ctl" Type="VI" URL="../Read Measurement 2 Channels Scope Argument--cluster.ctl"/>
+				<Item Name="Read Waveform Scope Argument--cluster.ctl" Type="VI" URL="../Read Waveform Scope Argument--cluster.ctl"/>
+				<Item Name="Reset Scope Argument--cluster.ctl" Type="VI" URL="../Reset Scope Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -33,6 +41,14 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Set Port.vi" Type="VI" URL="../Set Port.vi"/>
+			<Item Name="Initialize Scope.vi" Type="VI" URL="../Initialize Scope.vi"/>
+			<Item Name="Close Scope.vi" Type="VI" URL="../Close Scope.vi"/>
+			<Item Name="Autosetup Scope.vi" Type="VI" URL="../Autosetup Scope.vi"/>
+			<Item Name="Configure Channel Scope.vi" Type="VI" URL="../Configure Channel Scope.vi"/>
+			<Item Name="Read Measurement Scope.vi" Type="VI" URL="../Read Measurement Scope.vi"/>
+			<Item Name="Read Measurement 2 Channels Scope.vi" Type="VI" URL="../Read Measurement 2 Channels Scope.vi"/>
+			<Item Name="Read Waveform Scope.vi" Type="VI" URL="../Read Waveform Scope.vi"/>
+			<Item Name="Reset Scope.vi" Type="VI" URL="../Reset Scope.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
