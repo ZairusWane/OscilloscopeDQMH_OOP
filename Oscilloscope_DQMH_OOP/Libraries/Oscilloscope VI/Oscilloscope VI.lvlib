@@ -125,6 +125,8 @@
 		<Item Name="Oscilloscope.lvclass" Type="LVClass" URL="../../Classes/Oscilloscope/Oscilloscope.lvclass"/>
 		<Item Name="Get Classes Names.vi" Type="VI" URL="../../Classes/Oscilloscope/Get Classes Names.vi"/>
 		<Item Name="Set Class Instance.vi" Type="VI" URL="../../Classes/Oscilloscope/Set Class Instance.vi"/>
+		<Item Name="Scope 1 Test.lvclass" Type="LVClass" URL="../../Classes/Scope 1 Test/Scope 1 Test.lvclass"/>
+		<Item Name="Scope 2 Test.lvclass" Type="LVClass" URL="../../Classes/Scope 2 Test/Scope 2 Test.lvclass"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
